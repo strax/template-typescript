@@ -6,6 +6,7 @@
   "scripts": {
     "build": "tsc --build"
   },
+  "main": "target/index.js",
   "author": {
     "name": "Sami Kukkonen",
     "email": "sami@samikukkonen.fi"
