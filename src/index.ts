@@ -1,3 +1,3 @@
-export default function() {
-  return "Hello world!"
-}
+import { greet } from "./greet.js"
+
+greet()

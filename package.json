@@ -3,10 +3,12 @@
   "description": "New TypeScript project",
   "private": true,
   "version": "0.0.0",
+  "typings": "target/index.d.ts",
+  "main": "target/index.js",
+  "type": "module",
   "scripts": {
     "prepack": "just prepack"
   },
-  "main": "target/index.js",
   "author": {
     "name": "Sami Kukkonen",
     "email": "sami@samikukkonen.fi"

@@ -1,13 +1,17 @@
 {
   "compilerOptions": {
     "target": "esnext",
-    "module": "commonjs",
+    "module": "esnext",
     "moduleResolution": "node",
     "outDir": "target",
+    "allowJs": false,
     "strict": true,
-    "esModuleInterop": true,
     "sourceMap": true,
-    "incremental": true
+    "incremental": true,
+    "declaration": true,
+    "declarationMap": true,
+    "forceConsistentCasingInFileNames": true,
+    "useDefineForClassFields": true
   },
   "include": ["src/**/*"]
 }
