@@ -1,6 +1,5 @@
 {
-  "eslint.alwaysShowStatus": true,
-  "eslint.packageManager": "npm",
-  "eslint.validate": ["javascript", "typescript"],
-  "editor.rulers": [100]
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.rulers": [80]
 }
