@@ -4,9 +4,7 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "build": "tsc --build .",
-    "prepack": "tsc --build .",
-    "clean": "rm -rf target"
+    "prepack": "just prepack"
   },
   "main": "target/index.js",
   "author": {
