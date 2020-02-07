@@ -1,6 +1,6 @@
 {
   "eslint.alwaysShowStatus": true,
-  "eslint.packageManager": "yarn",
+  "eslint.packageManager": "npm",
   "eslint.validate": ["javascript", "typescript"],
   "editor.rulers": [100]
 }
