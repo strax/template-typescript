@@ -15,7 +15,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "typescript": "3.9.0-beta",
+    "typescript": "3.9.0-dev.20200416",
     "prettier": "2.0.4"
   }
 }
