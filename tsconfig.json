@@ -8,6 +8,7 @@
     "allowJs": false,
     "strict": true,
     "sourceMap": true,
+    "skipLibCheck": true,
     "incremental": true,
     "declaration": true,
     "declarationMap": true,
