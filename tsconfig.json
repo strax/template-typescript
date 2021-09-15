@@ -13,7 +13,8 @@
     "declaration": true,
     "declarationMap": true,
     "forceConsistentCasingInFileNames": true,
-    "useDefineForClassFields": true
+    "useDefineForClassFields": true,
+    "exactOptionalPropertyTypes": true
   },
   "include": ["src/**/*"]
 }
